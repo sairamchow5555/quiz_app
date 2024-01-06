@@ -1,3 +1,9 @@
+![Screenshot 2024-01-06 at 10 39 07 AM](https://github.com/sairamchow5555/quiz_app/assets/126855559/ade97dad-0da3-4595-b4e5-a27795e7c903)
+
+![Screenshot 2024-01-06 at 10 38 21 AM](https://github.com/sairamchow5555/quiz_app/assets/126855559/50268789-4138-422f-a899-51add87ecdad)
+
+![Screenshot 2024-01-06 at 10 38 31 AM](https://github.com/sairamchow5555/quiz_app/assets/126855559/f93faa61-959b-4a92-8ad9-a8f7167f432d)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
